@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **mtc0076/mtc0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
